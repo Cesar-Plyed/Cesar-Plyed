@@ -49,6 +49,7 @@ REST APIs, microservices and web interfaces — and looking for my first junior 
 |---|---|---|
 | [**Role-Based-Dashboard**](https://github.com/Cesar-Plyed/Role-Based-Dashboard) | Microservices backend with role-based access control (RBAC), Docker Compose orchestration and PostgreSQL. | `Spring Boot` `Docker` `PostgreSQL` |
 | [**task-hexagonal-architecure**](https://github.com/Cesar-Plyed/task-hexagonal-architecure) | Task management REST API built with Hexagonal Architecture (Ports & Adapters). | `Micronaut` `Java` `MySQL` |
+| [**spring-boot-microservices**](https://github.com/Cesar-Plyed/spring-boot-microservices.git) | Independent Microservices backend | `Spring Boot` `Java` `h2 Database` |
 | [**Portafolio-FR**](https://github.com/Cesar-Plyed/Portafolio-FR) | My personal developer portfolio. | `TypeScript` `Astro` |
 
 ---
